@@ -5,3 +5,5 @@ We can have complete customer details which can help us to retrieve the
 order details of regular customers.
 From this program we can also keep a track of transactions performed by
 different customers/clients. We can also get an idea that how much fund we received from different payment methodologies.
+Increased revenue by ( 15%) by developing backend software for stock management and forecasting. 
+Streamlined the inventory restocking process, reducing lead times by 30% by improving supplier communication protocols.
